@@ -2,7 +2,7 @@
   <img src="banner.png">
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mayur-Khobragade/Mayur-Khobragade/main/profile.jpeg?raw=true" width="180" style="border-radius:50%">
+  <img src="https://raw.githubusercontent.com/Mayur-Khobragade/Mayur-Khobragade/main/profile.png?raw=true" width="180" style="border-radius:50%">
 </p>
 <h1 align="center">Hi 👋, I'm Mayur Khobragade</h1>
 <h3 align="center">DevOps Engineer | AWS | Docker | Kubernetes | Terraform | Jenkins</h3>
